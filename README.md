@@ -4,7 +4,9 @@
 
 Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. KaribuChat can be accessed via SMS and comes preloaded with images and memes to enhance user interaction and engagement.
 
+
 ![Watch the video](https://github.com/benny-png/KaribuChat/blob/main/skylabs_app.gif)
+
 
 ## Features
 
@@ -40,7 +42,7 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
 
 
 
-
+![image](https://github.com/benny-png/KaribuChat/blob/main/karibuchat.png)
 
 
 ## Usage
