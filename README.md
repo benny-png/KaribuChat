@@ -21,7 +21,7 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/YourUsername/KaribuChat.git
+    git clone https://github.com/benny-png/KaribuChat.git
     ```
 2. **Open the project in Android Studio**:
     - Launch Android Studio.
@@ -41,7 +41,7 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
 Check out the demo video for the initial splash screen below:
 
 <div align="center">
-  <video src="skylabs_app2.mp4" controls="controls" style="max-width: 100%;">
+  <video src="https://github.com/benny-png/KaribuChat/blob/main/skylabs_app2.mp4" controls="controls" style="max-width: 100%;">
     Your browser does not support the video tag.
   </video>
 </div>
@@ -77,6 +77,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 SkyLabs - [contact@skylabs.com](mailto:contact@skylabs.com)
 
-Project Link: [https://github.com/YourUsername/KaribuChat](https://github.com/YourUsername/KaribuChat)
+Project Link: [https://github.com/benny-png/KaribuChat](https://github.com/benny-png/KaribuChat)
 
 ---
