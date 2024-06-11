@@ -4,6 +4,8 @@
 
 Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. KaribuChat can be accessed via SMS and comes preloaded with images and memes to enhance user interaction and engagement.
 
+![Watch the video](https://github.com/benny-png/KaribuChat/blob/main/skylabs_app.gif)
+
 ## Features
 
 - **Offline Functionality**: Access the chatbot without an internet connection through SMS.
@@ -36,11 +38,9 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
     - Connect an Android device or start an emulator.
     - Click on the `Run` button or press `Shift + F10`.
 
-### Demo Video
 
-Check out the demo video for the initial splash screen below:
 
-![Watch the video](https://github.com/benny-png/KaribuChat/blob/main/skylabs_app.gif)
+
 
 
 ## Usage
