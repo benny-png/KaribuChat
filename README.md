@@ -40,11 +40,8 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
 
 Check out the demo video for the initial splash screen below:
 
-<div align="center">
-  <video src="https://github.com/benny-png/KaribuChat/blob/main/skylabs_app2.mp4" controls="controls" style="max-width: 100%;">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[Watch the video](https://github.com/benny-png/KaribuChat/blob/main/skylabs_app2.mp4)
+
 
 ## Usage
 
