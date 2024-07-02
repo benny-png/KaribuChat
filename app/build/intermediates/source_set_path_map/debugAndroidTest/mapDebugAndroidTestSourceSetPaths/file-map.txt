@@ -1,0 +1,6 @@
+com.example.myapplication.test.app-core-1.5.0-0 C:\Users\User\.gradle\caches\transforms-4\bad61ee1a6561875f2ac49683ecf1006\transformed\core-1.5.0\res
+com.example.myapplication.test.app-annotation-experimental-1.3.0-1 C:\Users\User\.gradle\caches\transforms-4\ebc74fdc8a899cd7223a90339a48f97e\transformed\annotation-experimental-1.3.0\res
+com.example.myapplication.test.app-androidTest-2 D:\KaribuChat-main\app\build\generated\res\resValues\androidTest\debug
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-3 D:\KaribuChat-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myapplication.test.app-mergeDebugAndroidTestResources-4 D:\KaribuChat-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myapplication.test.app-debugAndroidTest-5 D:\KaribuChat-main\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
