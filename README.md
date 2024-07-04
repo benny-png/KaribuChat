@@ -21,6 +21,9 @@ Welcome to KaribuChat, an innovative offline chatbot developed by SkyLabs. Karib
 - Android Studio
 - Java Development Kit (JDK)
 
+![Untitled design](https://user-images.githubusercontent.com/60041910/218378637-adf9bcbf-5c7e-4274-8491-1ebe2a28b396.gif)
+
+
 ### Installation
 
 1. **Clone the repository**:
